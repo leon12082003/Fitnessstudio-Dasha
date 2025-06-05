@@ -1,0 +1,15 @@
+{
+  "name": "fitnessstudio-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chrono-node": "^2.3.2",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2",
+    "googleapis": "^131.0.0"
+  }
+}
